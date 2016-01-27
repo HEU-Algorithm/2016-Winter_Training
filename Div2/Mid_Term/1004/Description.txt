@@ -1,0 +1,36 @@
+﻿Title:
+The set of Laotou and Bingxiang --"middle value" Sorting
+
+Time Limit: 1000ms
+
+Description:
+Recursive define : In an sequence, the value of the value is in the middle of the number we think it is the largest ，it is called “middle value”, if there are two numbers in the middle, we think the larger the maximum.
+Please sort the sequence in ascending order by this rule.
+
+Input:
+
+Enter multiple sets of data, has been read to the end of  file.
+There is only one line in each.
+The first number n is the number in the sequence;
+Then there are n numbers, and they form a sequence.
+
+Output:
+Output a sorted sequence, each of the two numbers in the middle of the space, each with a row of output.
+
+Sample Input:
+3 1 2 3
+4 25 7 89 77
+
+Sample Output:
+1 3 2
+7 89 25 77
+
+HINT:
+
+The first set of examples, for "1 2 3", "2" is the middle value, after the "1 3", "3" is the middle value, so the output "1 3 2"
+The second  set of examples, for "25 7 89 77", "25 77" is the middle value, but 77 > 25, so the "77" is greater, so the output "7 89 25 77"
+
+Author:
+MJRT
+
+

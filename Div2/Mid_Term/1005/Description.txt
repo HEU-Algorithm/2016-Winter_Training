@@ -1,0 +1,25 @@
+﻿Title:
+The set of Laotou and Bingxiang --DAY DAY DAY
+Time Limit:
+
+Description:
+Laotou and Bingxiang had lived for a long time.They have a lot of identity.Thus ,they had a lot of different birthdays.Our task is to calculate how many days between their birthdays. 
+
+Input:
+There are T sets of input.
+There are two dates for each set of data,(year/month/day ,1000<= year <= 2000,1<=month<=12 , 1 <= day <= 31) Separated by spaces
+
+Output:
+Output the number of days between two dates
+
+Sample Input:
+2
+1996/1/1 1996/1/2
+1995/2/1 1996/2/1
+
+Sample Output:
+1
+365
+
+Author:
+Tonya

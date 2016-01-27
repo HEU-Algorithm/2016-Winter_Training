@@ -1,0 +1,54 @@
+Title:The set of Laotou and Bingxiang --Laotou Can't Say "No"
+Time : 1s
+Description:
+long long ago,there is a mountain.
+there is a temple in the mountain.
+But there is not an old monk in the temple.
+Er...,there is a god.
+And if you can answer the question from the god,he will realize your three wishes.
+But if you do not ,he believes you are a silly man.
+Lao tou is a man who can't say no(Why?I don't know.Maybe his English is too bad ,and don't know how to read "No"). 
+One day,lao tou explored this mountain.
+Suddenly,he found this temple.Due to curiosity,he run to the temple.
+God say:"Can you solve my problem ,silly person?If you can I will promise your three wishes."
+Lao thought:"THREE WISHES?,Maybe he can marry a white,rich and beautiful woman and walk to the peak of life".After thinking aboout this he is a bit excited.
+Well because he can say no  ,lao tou must say :"Yeah,I can." 
+So, the god asks his questions.
+He gives a lot of sequences to laotou.
+Like this;
+1:1
+2:11
+3:21
+4:1211
+5:111221
+6:312211
+......
+And let lao tou find the regular of these numbers.
+Now,there are ten thousands grass mud horse running throught the heart of laotou.
+But for proving that he is not a silly person,he must answer the question. 
+In this embarrassing moment,can you help him?
+Your task is to going on  writing the next line of the sequence.and  calculating the length of the sequence.
+
+Input 
+
+Input contains multiple test cases.Every test case include a number N(1<=N<=25).The number N is the Nth line Sequences.
+
+Ouput
+ 
+Output the length of the Sequence.There is only one line for each test case. 
+
+Sample Input
+1
+2
+
+Sample Output
+1
+2
+
+
+
+Hint
+The scripts is too out-dated.If teach lao tou how to read the word "No". We don't have these trouble. =_= =_=
+
+Author
+Teddy

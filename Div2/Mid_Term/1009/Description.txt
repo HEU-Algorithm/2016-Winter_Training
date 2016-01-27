@@ -1,0 +1,32 @@
+﻿Title:
+The set of Laotou and Bingxiang --Laotou's Transcript
+
+Time Limit: 1s
+
+Description:
+Everyone knows that data is precious, But Laotou lost the result of the ACM contest(assume that there are N students in the contest).Unfortunately,Bingxiang want to know the someone's score.
+Laotou didn't want to be criticized by Bingxiang, so he trying to recall,he remembered that there is a rule in the transcript:
+If the transcript considered as a real number sequence ,every element of sequence A(i) required: A(i)=( A(i-1) - A(i+1) )/2+d .  （i>=2）
+But Laotou only remembered A(1) and A(n).Please help Laotou to calculate the M student's score.
+
+Input:
+The input consists of several test cases. For each case, the first line contains two integers N ,M(1 <= N <= 60,M<=N),
+the second line contains three real number d,A(1),A(n).
+
+Output:
+For each test case,print one real number A(M) in one line, the result should be rounded to 3 decimal places.
+Sample Input:
+3 2
+1.523 1.322 5.366
+53 23
+0.543 1.213 9768.134
+
+Sample Output:
+-0.499
+-55173388.032
+
+Hint:
+You should print the real number with "double" style.
+
+Author:
+kengkeng

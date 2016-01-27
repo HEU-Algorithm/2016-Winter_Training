@@ -1,0 +1,28 @@
+Title:
+The set of Laotou and Bingxiang--Coins Problem
+
+Time Limit: 1s
+
+Description:
+
+You have known about the difficult challenges that Laotou face to find Bingxiang.Well,how many problems that he has solved?Sorry,I don't know.However,today he has a so intractable challenge that  he has to get your help.
+
+We all know that Laotou has some coins for the travelling expenses to find Bingxiang.You have to take care of that he has only six different values of coins which include C1 1 Yuan coins ,  C5 5 Yuan coins ,  C10 10 Yuan coins , C50 50 Yuan coins , C100 100 Yuan coins , C500 500 Yuan coins.
+
+Now the problem come to us.If Laotou wants to solve the problem,he has to pay for the bill about A Yuan.But he wants to pay the fewest number of coins.So,how many coins that he has to pay off?
+
+Input:
+There are several groups that you have to pay attention to your inputs.
+There are seven integers which represent the number of each value of coins C1,C5,C10,C50,C100,C500 and the bill of A Yuan that our major character has to pay off in the first line. 
+Output:
+You have to output only one integer which represent the number of coins that Laotou has to pay off and it takes the whole line.
+
+Sample Input:
+3 2 1 3 0 2 620
+ 
+Sample Output:
+6
+
+
+Author:
+YY

@@ -1,0 +1,33 @@
+Title:
+The set of Laotou and Bingxiang --Laotou¡¯s Love Message
+
+Time Limit: 1s
+
+Description:
+Laotou loves Bingxiang, but he doesn¡¯t want other people know about it, so he write the love message with the password. I am really curious about what has been written in the love message, can you help me to crack the password?
+
+The love message encryption method is: each letter in the text replaced with the letter after the sixth letter (for example: message text in each of the letter A is replaced by letter G)
+The password letter: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+The original letter: U V W X Y Z A B C D E F G H I J K L M N O P Q R S T 
+Attention: only the letter¡¯s characters are replaced, the other non-letter characters are not replaced, and all the letters of the message text are capital letters.
+
+Input:
+The input contains several test cases. The first line of the input is a single integer T which is the number of test cases. T test cases follow.
+Each test case contains a single line with several words. There will be at most 200 characters in a line. 
+
+Output:
+For each test case, you should output the text which is processed.
+
+Sample Input:
+3
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+SE JGXROTM HOTMDOGTM, O IGTUZ KDOYZ COZNUAZ EUA~
+SE NKGXZ OY COZN EUA
+
+Sample Output:
+UVWXYZABCDEFGHIJKLMNOPQRST
+MY DARLING BINGXIANG, I CANOT EXIST WITHOUT YOU~
+MY HEART IS WITH YOU
+
+Author:
+xunge

@@ -1,0 +1,32 @@
+﻿Title:
+The set of Laotou and Bingxiang --Fibonacci Sequence
+
+Time Limit: 1s
+
+Description:
+1，1，2，3，5，8，13，21，34，55.....For every integer n(n>=3),f(n)=f(n-1)+f(n-2),
+Laotou is interested in the sequence.So he want to know the the number of f(n).Owing to the number of f(n) is too larger.
+So Laotou want to the result mod 1e9+7.Please tell the Laotou the number of f(n).
+
+Input:
+There are several test cases. For each test case ,there is an integer n.(1<=n && n<=1e7)
+
+Output:
+For each test case,print an integer f(n) in one line as the result.
+
+Sample Input:
+1
+2
+3
+4
+5
+
+Sample Output:
+1
+1
+2
+3
+5
+
+Author:
+Alina
